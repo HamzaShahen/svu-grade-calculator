@@ -1,16 +1,26 @@
-# flutter_application
+# 🎓 SVU Grade Calculator
 
-A new Flutter project.
+A simple Flutter application developed for students of the Syrian Virtual University (SVU).
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Calculate the final course grade.
+- Calculate the minimum exam grade required to pass.
+- Supports assistance rule for grades 58 and 59.
+- Simple and modern user interface.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧮 Grade Formula
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Final Grade = (Assignment Grade × 0.25) + (Exam Grade × 0.75)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Minimum passing grade: 60
+- Grades 58 and 59 pass with assistance.
+
+## 🚀 Built With
+
+- Flutter
+- Dart
+
+## 👨‍💻 Developer
+
+Developed by Hamza Shahen.
